@@ -5,13 +5,6 @@ Created on Sat Sep  1 21:32:01 2018
 @author: Golferate
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  1 21:28:07 2018
-
-@author: Golferate
-"""
-
 import cv2
 import numpy as np
 
